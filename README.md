@@ -13,6 +13,9 @@ R: Promover redução de esforços e economia de tempo na gestão de leeds atrav
 4) Quem são as pessoas envolvidas e as dependências entre times?
 
 5) Como você organizaria os fluxos de comunicação?
+- Reunião de Check de projeto Semanal com pauta.
+- Reunião de Passagem de Bastão em tarefas de fim de execução.
+- Documentação do Serviço e ações.
 
 6) Quais critérios de aceitação de negócios das entregas? 
 
