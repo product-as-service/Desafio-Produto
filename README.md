@@ -32,6 +32,7 @@ O Projeto foi dividido em 4 Fases:
 As atividades são em sequências pelas Fases do projeto.
 
 Tempo de Cada Fase:
+
 **Fase 1 e 2**: 1 Semana
 
 **Fase 3**: 3 Semanas
