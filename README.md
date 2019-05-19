@@ -13,12 +13,20 @@ Promover redução de esforços e economia de tempo na gestão de leeds, atravé
 O Projeto foi dividido em 4 Fases:
 
 [[FASE-1] Definições de Produto](https://github.com/product-as-service/Desafio-Produto/issues/1)
+- Pré análise das demandas e definições de desenvolvimento
+- Alinhamento de expectativas
+- Gestão de Cronograma
 
 [[FASE-2] Levantamento dos dados que serão utilizados](https://github.com/product-as-service/Desafio-Produto/issues/2)
+- Comunicação com a equipe de Dados para extração de informações uteis para o modelo
 
 [[FASE-3] Desenvolvimento do Modelo de Classificação](https://github.com/product-as-service/Desafio-Produto/issues/3)
+- Criação do Modelo de Classificação 
+- Criação da taxa de confiabilidade
+- Formas de retroalimentação do modelo
 
 [[FASE-4] Levantando o Serviço de Classificação de Empresas](https://github.com/product-as-service/Desafio-Produto/issues/4)
+- Serviço que se comunicará com a Equipe de Dados para fornecer imputs para Aplicação
 
 ## 3) Organize em uma timeline quais são os passos de desenvolvimento.
 
@@ -62,3 +70,4 @@ O Projeto foi dividido em 4 Fases:
 - Dificuldade de ter uma base já treinada com a classificação correta
 - Performance do algoritmo
 - Matriz / Filial pode inteferir na precisão da classificação
+- Dados do CNPJ desatualizados em comparação com a Receita Federal
