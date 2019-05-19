@@ -29,6 +29,15 @@ O Projeto foi dividido em 4 Fases:
 - Serviço que se comunicará com a Equipe de Dados para fornecer imputs para Aplicação
 
 ## 3) Organize em uma timeline quais são os passos de desenvolvimento.
+As atividades são em sequências pelas Fases do projeto.
+
+Tempo de Cada Fase:
+**Fase 1 e 2**: 1 Semana
+**Fase 3**: 3 Semanas
+**Fase 4**: 2 Semanaas
+
+Tempo total do Projeto
+6 Semanas = **3 Sprint**
 
 ## 4) Quem são as pessoas envolvidas e as dependências entre times?
 
