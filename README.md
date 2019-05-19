@@ -33,14 +33,14 @@ R: Promover redução de esforços e economia de tempo na gestão de leeds, atra
 
 ## 8) Quais seriam as métricas para medir o sucesso da entrega?
 
-Negócio
+**Negócio**
 - Garantir que taxa de cobertura de classificação na base de Empresas Ativas seja superior a 70%
 - Promover taxa média de confiabilidade por região e geral do algoritimo acima de 60%
 - 20% Penetração da nova feature na base de clientes, nos dois primeiros meses de Lançamento
 - 45% de leeds nas etapas finais de funil de vendas estarem com a classificação Muito Provável
 
 
-Operacionais
+**Operacionais**
 - Tempo médio de resposta da API inferior a 5s
 - Promover cobertura por testes unitários acima de 70%
 - Accuracy, precision, recall do algoritmo de acordo com benchmarking de mercado
