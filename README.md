@@ -18,12 +18,12 @@ OBS2: Clicando nos Links será redirecionado para as issues dos itens :running:
 
 
 
-[[FASE-1] Definições de Produto](https://github.com/product-as-service/Desafio-Produto/issues/1)
+[[FASE-1] Definições de Produto](https://github.com/product-as-service/Desafio-Produto/issues/1) :hammer:
 - Pré análise das demandas e definições de desenvolvimento
 - Alinhamento de expectativas
 - Gestão de Cronograma
 
-[[FASE-2] Levantamento dos dados que serão utilizados](https://github.com/product-as-service/Desafio-Produto/issues/2)
+[[FASE-2] Levantamento dos dados que serão utilizados](https://github.com/product-as-service/Desafio-Produto/issues/2) 
 - Comunicação com a equipe de Dados para extração de informações úteis para o modelo
 - Insights para inteligação de informações
 
