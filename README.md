@@ -1,7 +1,7 @@
 # Desafio-Produto 
 
 
-OBS: Como não foi destacado no caso quem cuidaria da parte de Devops/Micro Serviço dos modelos sinalizando de que forma a equipe de Dados iria consultar os resultados gerados, assumi que é responsabilidade da equipe Analytics a criação do serviço, caso não seja ignorar a parte de APIs. :bowtie:
+OBS: Como não foi destacado no caso quem cuidaria da parte de Devops/Micro Serviço dos modelos sinalizando de que forma a equipe de Dados iria consultar os resultados gerados, assumi que é responsabilidade da equipe Analytics a criação do serviço, caso não seja ignorar a parte de APIs (FASE-4). :bowtie:
 
 ## 1) Qual a proposta de valor da entrega?
 
@@ -28,9 +28,9 @@ OBS2: Clicando nos Links será redirecionado para as issues dos itens :running:
 - Insights para inteligação de informações
 
 [[FASE-3] Desenvolvimento do Modelo de Classificação](https://github.com/product-as-service/Desafio-Produto/issues/3)
-- Criação do Modelo de Classificação 
-- Criação da taxa de confiabilidade
-- Formas de retroalimentação do modelo
+- [Criação do Modelo de Classificação](https://github.com/product-as-service/Desafio-Produto/issues/5) 
+- [Criação da taxa de confiabilidade](https://github.com/product-as-service/Desafio-Produto/issues/6)
+- [Formas de retroalimentação do modelo](https://github.com/product-as-service/Desafio-Produto/issues/7)
 
 [[FASE-4] Levantando o Serviço de Classificação de Empresas](https://github.com/product-as-service/Desafio-Produto/issues/4)
 - Serviço que se comunicará com a Equipe de Dados para fornecer inputs para Aplicação
@@ -114,7 +114,7 @@ Está sinalizdo dentro das issues, mas em linhas gerais:
 ## 8) Quais seriam as métricas para medir o sucesso da entrega?
 
 **Negócio**
-- Garantir que taxa de cobertura de classificação na base de Empresas Ativas seja superior a 70%
+- Garantir que taxa de cobertura de classificação na base de Empresas Ativas seja superior a 70% :rocket:
 - Promover taxa média de confiabilidade por região e geral do algoritmo acima de 40%
 - 20% Penetração da nova feature na base de clientes, nos dois primeiros meses de Lançamento
 - 60% de leeds nas etapas finais de funil de vendas estarem com a classificação Muito Provável
