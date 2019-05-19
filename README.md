@@ -1,12 +1,17 @@
 # Desafio-Produto
 
 
+OBS: Como não foi destacado no caso quem cuidaria da parte de Devops/Micro Serviço dos modelos, sinalizando de que forma a equipe de Dados iria consultar os resultados gerados, assumi que é responsabilidade da equipe Analytics a criação do serviço, caso não seja ignorar a parte de APIs :)
+
 ## 1) Qual a proposta de valor da entrega?
 
 Promover redução de esforços e economia de tempo na gestão de leeds, através da simplificação no processo de busca de empresas ativas como potenciais clientes.
 
 
 ## 2) Monte o backlog de estórias com as respectivas prioridades (explicar critério de priorização)
+
+O Projeto foi dividido em 4 Fases:
+[FASE-1] Definições de Produto
 
 ## 3) Organize em uma timeline quais são os passos de desenvolvimento.
 
