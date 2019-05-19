@@ -13,8 +13,11 @@ Promover redução de esforços e economia de tempo na gestão de leeds, atravé
 O Projeto foi dividido em 4 Fases:
 
 [[FASE-1] Definições de Produto](https://github.com/product-as-service/Desafio-Produto/issues/1)
+
 [[FASE-2] Levantamento dos dados que serão utilizados](https://github.com/product-as-service/Desafio-Produto/issues/2)
+
 [[FASE-3] Desenvolvimento do Modelo de Classificação](https://github.com/product-as-service/Desafio-Produto/issues/3)
+
 [[FASE-4] Levantando o Serviço de Classificação de Empresas](https://github.com/product-as-service/Desafio-Produto/issues/4)
 
 ## 3) Organize em uma timeline quais são os passos de desenvolvimento.
