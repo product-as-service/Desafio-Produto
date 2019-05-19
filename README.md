@@ -11,6 +11,9 @@ Promover redução de esforços e economia de tempo na gestão de leeds, atravé
 ## 2) Monte o backlog de estórias com as respectivas prioridades (explicar critério de priorização)
 
 O Projeto foi dividido em 4 Fases:
+OBS1: Foi realizado um detalhamento maior na fase 3, por ser o core do time de Analytics
+OBS2: Clicando nos Links será redirecionado para as issues das tarefas
+
 
 [[FASE-1] Definições de Produto](https://github.com/product-as-service/Desafio-Produto/issues/1)
 - Pré análise das demandas e definições de desenvolvimento
