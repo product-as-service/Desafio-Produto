@@ -33,8 +33,11 @@ As atividades são em sequências pelas Fases do projeto.
 
 Tempo de Cada Fase:
 **Fase 1 e 2**: 1 Semana
+
 **Fase 3**: 3 Semanas
+
 **Fase 4**: 2 Semanaas
+
 
 Tempo total do Projeto
 6 Semanas = **3 Sprint**
