@@ -24,7 +24,7 @@ OBS2: Clicando nos Links será redirecionado para as issues dos itens :running:
 - Gestão de Cronograma
 
 [[FASE-2] Levantamento dos dados que serão utilizados](https://github.com/product-as-service/Desafio-Produto/issues/2)
-- Comunicação com a equipe de Dados para extração de informações uteis para o modelo
+- Comunicação com a equipe de Dados para extração de informações úteis para o modelo
 
 [[FASE-3] Desenvolvimento do Modelo de Classificação](https://github.com/product-as-service/Desafio-Produto/issues/3)
 - Criação do Modelo de Classificação 
