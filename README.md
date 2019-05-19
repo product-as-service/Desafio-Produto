@@ -12,7 +12,7 @@ Promover redução de esforços e economia de tempo na gestão de leeds, atravé
 
 O Projeto foi dividido em 4 Fases:
 
-OBS1: Foi realizado um detalhamento maior na fase 3, por ser o core do time de Analytics :exclamation:
+OBS1: Foi realizado um detalhamento maior na fase 3, por ser o core business do time de Analytics :exclamation:
 
 OBS2: Clicando nos Links será redirecionado para as issues das tarefas :running:
 
