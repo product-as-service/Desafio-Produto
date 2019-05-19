@@ -14,8 +14,8 @@ Promover redução de esforços e economia de tempo na gestão de leeds, atravé
 
 ## 5) Como você organizaria os fluxos de comunicação?
 - Reunião de Check de projeto Semanal com pauta.
-- Reunião de Passagem de Bastão em tarefas de fim de execução.
-- Reservar tempo na Planning da Sprint em momentos que terá interação entre duas equipes diferentes.
+- Reunião de Passagem de Bastão em tarefas de fim de execução de uma equipe e início de outra.
+- Reservar tempo na Planning da Sprint em momentos que terá interação entre duas equipes diferentes em um mesmo momento.
 - Documentação do serviço.
 
 ## 6) Quais critérios de aceitação de negócios das entregas? 
