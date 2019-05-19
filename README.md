@@ -41,13 +41,13 @@ Tempo de Cada Fase:
 
 **Fase 1 e 2**: 1 Semana
 
-**Fase 3**: 3 Semanas
+**Fase 3**: 4 Semanas
 
-**Fase 4**: 2 Semanaas
+**Fase 4**: 2 Semanas
 
 
 Tempo total do Projeto
-6 Semanas = **3 Sprint** :star:
+7 Semanas = **3 Sprint e 1 semana** :star:
 
 ## 4) Quem são as pessoas envolvidas e as dependências entre times?
 
