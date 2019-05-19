@@ -57,17 +57,17 @@ Está sinalizdo dentro das issues, mas em linhas gerais:
 
 **Envolvidos:**
 
-**Produto:** UX, PM e PO de Data, Analytics e Aplicação
+**Produto:** UX, PM e PO de Dados, Analytics e Aplicação
 
-**Engenharia:** Engenharia Data, Analytics e Aplicação
+**Engenharia:** Engenharia Dados, Analytics e Aplicação
 
 ### Fase 2:
 
 **Envolvidos:**
 
-**Produto:** PO de Data e Analytics
+**Produto:** PO de Dados e Analytics
 
-**Engenharia:** Engenharia Data e Analytics
+**Engenharia:** Engenharia Dados e Analytics
 
 **Dependências:** Fornecimentos dos dados para a criação do pelo por parte da equipe Data.
 
@@ -83,11 +83,11 @@ Está sinalizdo dentro das issues, mas em linhas gerais:
 
 **Envolvidos:**
 
-**Produto:** PO de Data e Analytics
+**Produto:** PO de Dados e Analytics
 
-**Engenharia:** Engenharia Data e Analytics
+**Engenharia:** Engenharia Dados e Analytics
 
-**Dependências:** Criar APIs de Classificação e Feedback por parte de Analytics para que Data possa utilizar.
+**Dependências:** Criar APIs de Classificação e Feedback por parte de Analytics para que Dados possa utilizar.
 
 
 
