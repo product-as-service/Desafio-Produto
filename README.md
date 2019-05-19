@@ -3,7 +3,7 @@
 
 ## 1) Qual a proposta de valor da entrega?
 
-R: Promover redução de esforços e economia de tempo na gestão de leeds, através da simplificação no processo de busca de empresas ativas como potenciais clientes.
+Promover redução de esforços e economia de tempo na gestão de leeds, através da simplificação no processo de busca de empresas ativas como potenciais clientes.
 
 
 ## 2) Monte o backlog de estórias com as respectivas prioridades (explicar critério de priorização)
