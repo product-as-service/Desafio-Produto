@@ -10,7 +10,7 @@ Promover redução de esforços e economia de tempo na gestão de leeds, atravé
 
 ## 2) Monte o backlog de estórias com as respectivas prioridades (explicar critério de priorização)
 
-O Projeto foi dividido em 4 Fases:
+O Projeto foi dividido em 4 Fases. No [kanban](https://github.com/product-as-service/Desafio-Produto/projects/1) existem as issues centralizadoras de tarefas (com a label central), e o detalhamento das ações em issues secundárias (Marcadas com a label tarefas).
 
 OBS1: Foi realizado um detalhamento maior na fase 3, por ser o core business do time de Analytics :exclamation:
 
