@@ -14,7 +14,7 @@ O Projeto foi dividido em 4 Fases. No [kanban](https://github.com/product-as-ser
 
 OBS1: Foi realizado um detalhamento maior na fase 3, por ser o core business do time de Analytics :exclamation:
 
-OBS2: Clicando nos Links será redirecionado para as issues das tarefas :running:
+OBS2: Clicando nos Links será redirecionado para as issues dos itens :running:
 
 
 
