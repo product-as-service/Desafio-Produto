@@ -1,7 +1,7 @@
 # Desafio-Produto 
 
 
-OBS: Como não foi destacado no caso quem cuidaria da parte de Devops/Micro Serviço dos modelos, sinalizando de que forma a equipe de Dados iria consultar os resultados gerados, assumi que é responsabilidade da equipe Analytics a criação do serviço, caso não seja ignorar a parte de APIs :) :bowtie:
+OBS: Como não foi destacado no caso quem cuidaria da parte de Devops/Micro Serviço dos modelos, sinalizando de que forma a equipe de Dados iria consultar os resultados gerados, assumi que é responsabilidade da equipe Analytics a criação do serviço, caso não seja ignorar a parte de APIs. :bowtie:
 
 ## 1) Qual a proposta de valor da entrega?
 
