@@ -51,6 +51,46 @@ Tempo total do Projeto
 
 ## 4) Quem são as pessoas envolvidas e as dependências entre times?
 
+Está sinalizdo dentro das issues, mas em linhas gerais:
+
+### Fase 1:
+
+**Envolvidos:**
+
+**Produto:** UX, PM e PO de Data, Analytics e Aplicação
+
+**Engenharia:** Engenharia Data, Analytics e Aplicação
+
+### Fase 2:
+
+**Envolvidos:**
+
+**Produto:** PO de Data e Analytics
+
+**Engenharia:** Engenharia Data e Analytics
+
+**Dependências:** Fornecimentos dos dados para a criação do pelo por parte da equipe Data.
+
+### Fase 3:
+
+**Envolvidos:**
+
+**Produto:** PO de Analytics
+
+**Engenharia:** Engenharia Analytics
+
+### Fase 4:
+
+**Envolvidos:**
+
+**Produto:** PO de Data e Analytics
+
+**Engenharia:** Engenharia Data e Analytics
+
+**Dependências:** Criar APIs de Classificação e Feedback por parte de Analytics para que Data possa utilizar.
+
+
+
 ## 5) Como você organizaria os fluxos de comunicação?
 - Reunião de Check de projeto Semanal com pauta.
 - Reunião de Passagem de Bastão em tarefas de fim de execução de uma equipe e início de outra.
